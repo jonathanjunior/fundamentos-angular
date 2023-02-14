@@ -1,0 +1,25 @@
+Aula 2.A
+	
+	npm i -g @angular/cli
+	
+Aula 3.A
+		
+		termninal na pasta
+			ctrl + '
+			
+		criar novo projeto
+			ng new fundamentos-angular			
+			
+		rodar aplicação	
+			npm start   > na pasta do projeto
+
+Aula 4.B
+
+	ng gererate component segundo-componente		
+
+Aula 4.C
+	https://angular.io/guide/pipes	
+	
+	ng g pipe multiplicaPor
+				
+	
